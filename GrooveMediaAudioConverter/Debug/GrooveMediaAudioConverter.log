@@ -2,8 +2,6 @@
   MemoryFile.cpp
 c:\users\anthony\documents\visual studio 2017\projects\groovemediaaudioconverter\groovemediaaudioconverter\memoryfile.cpp(25): warning C4244: '=': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
   RegisterInterface.cpp
-  main.cpp
-c:\users\anthony\documents\visual studio 2017\projects\groovemediaaudioconverter\groovemediaaudioconverter\main.cpp(82): warning C4305: 'initializing': truncation from 'double' to 'float'
   Generating Code...
   DXUTOpt.lib(SDKwavefile.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
